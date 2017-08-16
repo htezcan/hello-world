@@ -1,2 +1,2 @@
 # hello-world
-learning
+Hi Fellow LB people I am learning GitHub.
